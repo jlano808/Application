@@ -1,0 +1,12 @@
+# Local terraform directories
+.terraform/
+
+# Local state files (these should be in S3, not Git)
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+
+# Variables files (if they contain secrets)
+*.tfvars
