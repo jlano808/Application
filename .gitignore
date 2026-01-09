@@ -9,4 +9,5 @@
 crash.log
 
 # Variables files (if they contain secrets)
-*.tfvars
+*.tfvars.env
+.env
